@@ -4,7 +4,7 @@
 
 ### Overview
 In this assignment, you will need to apply data analytics, using the tools introduced during the labs. You are required to study the SEEK job market data and analyze. The assignment consists of 3 parts. In the first part, you will need to understand data characteristics using data preparation and preprocessing techniques. In the second part, you will perform various data analysis techniques, including exploratory, statistical, and predictive ones. In the third part, you will need to evaluate your findings and determine appropriate future actions.
-1. Data Preparation and Preprocessing [8 points]
+### Part 1. Data Preparation and Preprocessing [8 points]
 ● The primary dataset that we would like to use is the job market dataset which is provided in CSV format (data.csv).
 ● Perform data preparation and preprocessing for your analysis
 ● Submit your Jupyter notebook in your Github repository
@@ -25,7 +25,7 @@ For example:
 3) What is your hypothesis (expectation) about the analysis outcome?
 [1-2 paragraphs, 1 point]
 
-Part 2 – Data Analysis and Interpretation [17 points]
+### Part 2 – Data Analysis and Interpretation [17 points]
 ● Perform exploratory data analysis
 ● Perform statistical data analysis
 ● Perform predictive data analysis
@@ -60,7 +60,7 @@ For example:
 
 ○ Present the necessary skills by sectors, by subsectors. [1-2 paragraphs, 2 points]
 5) Using PySpark for your data analysis [2 points]
-Part 3 - Evaluation [5 points]
+### Part 3 - Evaluation [5 points]
 1) What are the findings of your data analytics? [2-3 paragraphs, 2 points]
 2) What actions for balancing the markets do you suggest based on your findings? [1-2 paragraphs, 1 point]
 3) How could you refine your data analytics? For example:
