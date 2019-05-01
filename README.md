@@ -5,16 +5,16 @@
 ### Overview
 In this assignment, you will need to apply data analytics, using the tools introduced during the labs. You are required to study the SEEK job market data and analyze. The assignment consists of 3 parts. In the first part, you will need to understand data characteristics using data preparation and preprocessing techniques. In the second part, you will perform various data analysis techniques, including exploratory, statistical, and predictive ones. In the third part, you will need to evaluate your findings and determine appropriate future actions.
 ### Part 1. Data Preparation and Preprocessing [8 points]
-⋅⋅* The primary dataset that we would like to use is the job market dataset which is provided in CSV format (data.csv).
-⋅⋅* Perform data preparation and preprocessing for your analysis
-⋅⋅* Submit your Jupyter notebook in your Github repository
+* The primary dataset that we would like to use is the job market dataset which is provided in CSV format (data.csv).
+* Perform data preparation and preprocessing for your analysis
+* Submit your Jupyter notebook in your Github repository
 1. Describe the dataset. For example:
-○ What are the categories/domains of the dataset?
-○ What is the dataset size of each variation?
-○ What is dataset structure/format?
-○ What are attributes/features of review data you are going to use?
-○ What are attributes/features of product data you are going to use?
-○ Which parts of the dataset will you use or all of them?
+[] What are the categories/domains of the dataset?
+[] What is the dataset size of each variation?
+[] What is dataset structure/format?
+[] What are attributes/features of review data you are going to use?
+[] What are attributes/features of product data you are going to use?
+[] Which parts of the dataset will you use or all of them?
 [1-2 paragraphs, 3 points]
 2. Describe the steps you used for data preparation and preprocessing.
 For example:
