@@ -8,5 +8,8 @@
 * nltk
 * wordcloud
 
-### Overview
+### Notes
+* There are a few interative plots in the notebook
+* Part 3 Evaluation can be found in a seperate file
+
 
