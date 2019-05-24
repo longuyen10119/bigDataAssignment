@@ -1,5 +1,7 @@
 ### 3803ICT
 ## Big Data Analysis
+## Seek Job Market Data Analysis
+### Tyler and Long
 ### Libraries needed to install before running Jupyter notebook
 * numpy
 * seaborn
