@@ -13,6 +13,10 @@
 * ipywidgets
 * nltk
 * wordcloud
+* adjusttext: conda install -c phlya adjusttext
+* proj4: conda install -c conda-forge proj4
+* basemap: conda install -c anaconda basemap
+* geopy: conda install -c conda-forge geopy
 
 ### Notes
 * There are a few interative plots in the notebook, the cells need to be run for the interactive plots to show
