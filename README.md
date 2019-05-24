@@ -3,8 +3,8 @@
 ## Seek Job Market Data Analysis
 ### Tyler and Long
 
-* ### Part 1 and Part 2 can be found in 3803assignment.ipynb
-### * Part 3 can be found in Part3_Evaluation.ipynb
+* #### Part 1 and Part 2 can be found in 3803assignment.ipynb
+* #### Part 3 can be found in Part3_Evaluation.ipynb
 
 ### Libraries needed to install before running Jupyter notebook
 * numpy
