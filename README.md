@@ -20,5 +20,6 @@
 
 ### Notes
 * There are a few interative plots in the notebook, the cells need to be run for the interactive plots to show
-* You might not be able to install libraries and set environment paths, so please don't rerun the Map cell
+* You might not be able to install libraries and set environment paths, so PLEASE DO NOT RUN THE MAP AND IMPORT MAP CELLS
+
 
